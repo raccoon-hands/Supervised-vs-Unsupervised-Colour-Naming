@@ -1,4 +1,7 @@
 # Supervised-vs-Unsupervised-Colour-Naming
+
+# Data files are not available for this notebook yet; this is a display-only notebook to show my coding work.
+
 This study aims to compare and evaluate the performance of supervised and unsupervised machine learning models when trained on qualitative crowd-sourced colour naming data for uniformly sampled points in CIELUV colour space. 
 
 As a secondary aim, the effects of synthetic oversampling and Gaussian noise injection on the generalisation ability of these models will be examined. Three supervised machine learning models (K-NN, Neural Network, and Random Forest) and two unsupervised models (Fuzzy C-Means, Self Organising Map) were set a series of colour classification tasks, and their generalisation ability tested on outside colour sample data. 
